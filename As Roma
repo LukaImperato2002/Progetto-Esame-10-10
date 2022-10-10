@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-/* Includo la libreria <string.h> che contiene la funzione strcmp*/
+//Includo la libreria <string.h> che contiene la funzione strcmp
 #include <string.h>
 
 typedef struct
